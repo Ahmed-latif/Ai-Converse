@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>376359430627-taj1f9of4eubh25sc157e0mh9j9en5cu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.376359430627-taj1f9of4eubh25sc157e0mh9j9en5cu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeogZOtUsikmiID0DFSkJ1H3OUTGv2ng4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>376359430627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aiConverseChatbotApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>aiconverse-chatbot-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aiconverse-chatbot-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:376359430627:ios:7ea0e81ab495b936d5d8d6</string>
+</dict>
+</plist>

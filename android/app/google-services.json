@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "376359430627",
+    "project_id": "aiconverse-chatbot-app",
+    "storage_bucket": "aiconverse-chatbot-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376359430627:android:827cba4b8b16e024d5d8d6",
+        "android_client_info": {
+          "package_name": "com.example.ai_converse_chatbot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376359430627-93l6v12h9jvlg35eid020c6ne2e3rvus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ai_converse_chatbot_app",
+            "certificate_hash": "d5a1ebfa5441c3ff522c59c461e4921d7ada4158"
+          }
+        },
+        {
+          "client_id": "376359430627-0evu863dit2s11eegbbpvfvd4l7k4b49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhOtscQMxmzjRGx1XB5OvBQfJCfnNL4ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376359430627-0evu863dit2s11eegbbpvfvd4l7k4b49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376359430627-6vdifgc63bu3mspf99io085vh3r7ucfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiConverseChatbotApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
