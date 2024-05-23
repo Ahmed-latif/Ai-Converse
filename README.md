@@ -1,6 +1,6 @@
 **AI Converse Flutter-Based Chatbot App using Open-Ai Api **
 
-**Functional Requirements:**
+**🚀 🚀 Functional Requirements:**
 1. User Authentication(Email and Google)
 2. Audio Input
 3. Audio Output
@@ -8,7 +8,8 @@
 5. Image Generator
 6. Constant Theme
 7. Password Recovery
-8. Download Images
+8. Download Images![image](https://github.com/Ahmed-latif/Ai-Converse/assets/105422581/cd828e58-121f-4402-913b-084132210e9f)
+
 
 
 ![Screenshot_2024-04-18-03-05-13-611_com example ai_converse_chatbot_app](https://github.com/Ahmed-latif/Ai-Converse/assets/105422581/7a02fc1c-740f-4360-acc5-30aafb3a7e90)
