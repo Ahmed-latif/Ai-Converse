@@ -1,6 +1,6 @@
 # AI Converse Flutter-Based Chatbot App using Open-Ai Api
 
-#🚀 🚀 Functional Requirements:
+🚀 🚀 #Functional Requirements:
 1. User Authentication(Email and Google) 🤳🤳
 2. Audio Input📢
 3. Audio Output
